@@ -1,1 +1,1 @@
-# CodeClauseInternship_Diabetic-Retinopathy
+Diabetic-Retinopathy
